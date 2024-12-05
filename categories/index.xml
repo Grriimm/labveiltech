@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on Maximind</title>
-    <link>https://ggrriimm.github.io/LabVeilTech/categories/</link>
+    <link>https://grriimm.github.io/labveiltech/categories/</link>
     <description>Recent content in Categories on Maximind</description>
     <image>
       <title>Maximind</title>
-      <url>https://ggrriimm.github.io/LabVeilTech/images/papermod-cover.png</url>
-      <link>https://ggrriimm.github.io/LabVeilTech/images/papermod-cover.png</link>
+      <url>https://grriimm.github.io/labveiltech/images/papermod-cover.png</url>
+      <link>https://grriimm.github.io/labveiltech/images/papermod-cover.png</link>
     </image>
     <generator>Hugo -- 0.138.0</generator>
     <language>en</language>
     <copyright>Maxime Peretti</copyright>
     <lastBuildDate>Thu, 14 Nov 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://ggrriimm.github.io/LabVeilTech/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://grriimm.github.io/labveiltech/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Création</title>
-      <link>https://ggrriimm.github.io/LabVeilTech/categories/cr%C3%A9ation/</link>
+      <link>https://grriimm.github.io/labveiltech/categories/cr%C3%A9ation/</link>
       <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://ggrriimm.github.io/LabVeilTech/categories/cr%C3%A9ation/</guid>
+      <guid>https://grriimm.github.io/labveiltech/categories/cr%C3%A9ation/</guid>
       <description></description>
     </item>
     <item>
       <title>Technologie</title>
-      <link>https://ggrriimm.github.io/LabVeilTech/categories/technologie/</link>
+      <link>https://grriimm.github.io/labveiltech/categories/technologie/</link>
       <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://ggrriimm.github.io/LabVeilTech/categories/technologie/</guid>
+      <guid>https://grriimm.github.io/labveiltech/categories/technologie/</guid>
       <description></description>
     </item>
   </channel>

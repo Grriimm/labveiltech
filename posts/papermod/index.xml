@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>PaperMod on Maximind</title>
-    <link>https://ggrriimm.github.io/LabVeilTech/posts/papermod/</link>
+    <link>https://grriimm.github.io/labveiltech/posts/papermod/</link>
     <description>Recent content in PaperMod on Maximind</description>
     <image>
       <title>Maximind</title>
-      <url>https://ggrriimm.github.io/LabVeilTech/images/papermod-cover.png</url>
-      <link>https://ggrriimm.github.io/LabVeilTech/images/papermod-cover.png</link>
+      <url>https://grriimm.github.io/labveiltech/images/papermod-cover.png</url>
+      <link>https://grriimm.github.io/labveiltech/images/papermod-cover.png</link>
     </image>
     <generator>Hugo -- 0.138.0</generator>
     <language>en</language>
     <copyright>Maxime Peretti</copyright>
     <lastBuildDate>Wed, 20 Jan 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://ggrriimm.github.io/LabVeilTech/posts/papermod/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://grriimm.github.io/labveiltech/posts/papermod/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Install / Update PaperMod</title>
-      <link>https://ggrriimm.github.io/LabVeilTech/posts/papermod/papermod-installation/</link>
+      <link>https://grriimm.github.io/labveiltech/posts/papermod/papermod-installation/</link>
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://ggrriimm.github.io/LabVeilTech/posts/papermod/papermod-installation/</guid>
+      <guid>https://grriimm.github.io/labveiltech/posts/papermod/papermod-installation/</guid>
       <description>Read aboout Install and Update instructions and sampled configuration templates</description>
     </item>
     <item>
       <title>Features / Mods</title>
-      <link>https://ggrriimm.github.io/LabVeilTech/posts/papermod/papermod-features/</link>
+      <link>https://grriimm.github.io/labveiltech/posts/papermod/papermod-features/</link>
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://ggrriimm.github.io/LabVeilTech/posts/papermod/papermod-features/</guid>
+      <guid>https://grriimm.github.io/labveiltech/posts/papermod/papermod-features/</guid>
       <description>Learn About All Features in PaperMod</description>
     </item>
   </channel>
