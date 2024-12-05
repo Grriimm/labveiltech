@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Maximind</title>
+    <link>https://ggrriimm.github.io/LabVeilTech/</link>
+    <description>Recent content on Maximind</description>
+    <image>
+      <title>Maximind</title>
+      <url>https://ggrriimm.github.io/LabVeilTech/images/papermod-cover.png</url>
+      <link>https://ggrriimm.github.io/LabVeilTech/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.138.0</generator>
+    <language>en</language>
+    <copyright>Maxime Peretti</copyright>
+    <lastBuildDate>Thu, 14 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://ggrriimm.github.io/LabVeilTech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Install / Update PaperMod</title>
+      <link>https://ggrriimm.github.io/LabVeilTech/posts/papermod/papermod-installation/</link>
+      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://ggrriimm.github.io/LabVeilTech/posts/papermod/papermod-installation/</guid>
+      <description>Read aboout Install and Update instructions and sampled configuration templates</description>
+    </item>
+    <item>
+      <title>Features / Mods</title>
+      <link>https://ggrriimm.github.io/LabVeilTech/posts/papermod/papermod-features/</link>
+      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://ggrriimm.github.io/LabVeilTech/posts/papermod/papermod-features/</guid>
+      <description>Learn About All Features in PaperMod</description>
+    </item>
+    <item>
+      <title>Le futur du travail créatif : La narration humaine</title>
+      <link>https://ggrriimm.github.io/LabVeilTech/posts/test-articles/</link>
+      <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://ggrriimm.github.io/LabVeilTech/posts/test-articles/</guid>
+      <description>Pourquoi la créativité humaine reste unique dans un monde où l&amp;#39;intelligence artificielle progresse rapidement.</description>
+    </item>
+    <item>
+      <title>A propos</title>
+      <link>https://ggrriimm.github.io/LabVeilTech/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ggrriimm.github.io/LabVeilTech/about/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://ggrriimm.github.io/LabVeilTech/sitemap.xml
