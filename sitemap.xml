@@ -2,58 +2,103 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://grriimm.github.io/labveiltech/posts/papermod/papermod-installation/</loc>
-    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://grriimm.github.io/labveiltech/posts/papermod/papermod-features/</loc>
-    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://grriimm.github.io/labveiltech/tags/avenir-du-travail/</loc>
-    <lastmod>2024-11-14T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://grriimm.github.io/labveiltech/categories/</loc>
-    <lastmod>2024-11-14T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://grriimm.github.io/labveiltech/categories/cr%C3%A9ation/</loc>
-    <lastmod>2024-11-14T00:00:00+00:00</lastmod>
+    <loc>https://grriimm.github.io/labveiltech/tags/fusion/</loc>
+    <lastmod>2024-12-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://grriimm.github.io/labveiltech/tags/cr%C3%A9ativit%C3%A9/</loc>
-    <lastmod>2024-11-14T00:00:00+00:00</lastmod>
+    <loc>https://grriimm.github.io/labveiltech/posts/fusion-de-produits/</loc>
+    <lastmod>2024-12-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://grriimm.github.io/labveiltech/tags/humanit%C3%A9/</loc>
-    <lastmod>2024-11-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://grriimm.github.io/labveiltech/tags/ia/</loc>
-    <lastmod>2024-11-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://grriimm.github.io/labveiltech/posts/test-articles/</loc>
-    <lastmod>2024-11-14T00:00:00+00:00</lastmod>
+    <loc>https://grriimm.github.io/labveiltech/tags/int%C3%A9gration/</loc>
+    <lastmod>2024-12-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://grriimm.github.io/labveiltech/</loc>
-    <lastmod>2024-11-14T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://grriimm.github.io/labveiltech/posts/</loc>
-    <lastmod>2024-11-14T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://grriimm.github.io/labveiltech/tags/produits/</loc>
+    <lastmod>2024-12-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://grriimm.github.io/labveiltech/categories/strat%C3%A9gie/</loc>
+    <lastmod>2024-12-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://grriimm.github.io/labveiltech/tags/</loc>
-    <lastmod>2024-11-14T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://grriimm.github.io/labveiltech/categories/technologie/</loc>
-    <lastmod>2024-11-14T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://grriimm.github.io/labveiltech/tags/docs/</loc>
-    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
+    <loc>https://grriimm.github.io/labveiltech/tags/design/</loc>
+    <lastmod>2024-12-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://grriimm.github.io/labveiltech/tags/papermod/</loc>
-    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
+    <loc>https://grriimm.github.io/labveiltech/posts/outils-de-veille/</loc>
+    <lastmod>2024-12-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://grriimm.github.io/labveiltech/series/papermod/</loc>
-    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
+    <loc>https://grriimm.github.io/labveiltech/tags/ux/ui/</loc>
+    <lastmod>2024-12-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://grriimm.github.io/labveiltech/tags/veille/</loc>
+    <lastmod>2024-12-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://grriimm.github.io/labveiltech/posts/proactive-product-quality/</loc>
+    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://grriimm.github.io/labveiltech/tags/proactivit%C3%A9/</loc>
+    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://grriimm.github.io/labveiltech/tags/produit/</loc>
+    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://grriimm.github.io/labveiltech/tags/qualit%C3%A9/</loc>
+    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://grriimm.github.io/labveiltech/tags/apple/</loc>
+    <lastmod>2024-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://grriimm.github.io/labveiltech/posts/product-designer-apple/</loc>
+    <lastmod>2024-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://grriimm.github.io/labveiltech/categories/design/</loc>
+    <lastmod>2024-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://grriimm.github.io/labveiltech/tags/innovation/</loc>
+    <lastmod>2024-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://grriimm.github.io/labveiltech/tags/digital/</loc>
+    <lastmod>2024-11-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://grriimm.github.io/labveiltech/categories/innovation/</loc>
+    <lastmod>2024-11-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://grriimm.github.io/labveiltech/tags/web3/</loc>
+    <lastmod>2024-11-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://grriimm.github.io/labveiltech/posts/zentry/</loc>
+    <lastmod>2024-11-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://grriimm.github.io/labveiltech/tags/avenir-du-travail/</loc>
+    <lastmod>2024-10-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://grriimm.github.io/labveiltech/categories/cr%C3%A9ation/</loc>
+    <lastmod>2024-10-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://grriimm.github.io/labveiltech/tags/cr%C3%A9ativit%C3%A9/</loc>
+    <lastmod>2024-10-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://grriimm.github.io/labveiltech/tags/humanit%C3%A9/</loc>
+    <lastmod>2024-10-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://grriimm.github.io/labveiltech/tags/ia/</loc>
+    <lastmod>2024-10-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://grriimm.github.io/labveiltech/posts/the-futur-of-storytelling/</loc>
+    <lastmod>2024-10-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://grriimm.github.io/labveiltech/posts/papermod/</loc>
-    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://grriimm.github.io/labveiltech/series/</loc>
     <lastmod>2021-01-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://grriimm.github.io/labveiltech/about/</loc>
@@ -65,5 +110,7 @@
     <loc>https://grriimm.github.io/labveiltech/search/</loc>
   </url><url>
     <loc>https://grriimm.github.io/labveiltech/search.fr/</loc>
+  </url><url>
+    <loc>https://grriimm.github.io/labveiltech/series/</loc>
   </url>
 </urlset>

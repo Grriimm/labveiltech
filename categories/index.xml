@@ -12,20 +12,41 @@
     <generator>Hugo -- 0.138.0</generator>
     <language>en</language>
     <copyright>Maxime Peretti</copyright>
-    <lastBuildDate>Thu, 14 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Dec 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://grriimm.github.io/labveiltech/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Création</title>
-      <link>https://grriimm.github.io/labveiltech/categories/cr%C3%A9ation/</link>
-      <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://grriimm.github.io/labveiltech/categories/cr%C3%A9ation/</guid>
+      <title>Stratégie</title>
+      <link>https://grriimm.github.io/labveiltech/categories/strat%C3%A9gie/</link>
+      <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://grriimm.github.io/labveiltech/categories/strat%C3%A9gie/</guid>
       <description></description>
     </item>
     <item>
       <title>Technologie</title>
       <link>https://grriimm.github.io/labveiltech/categories/technologie/</link>
-      <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
       <guid>https://grriimm.github.io/labveiltech/categories/technologie/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Design</title>
+      <link>https://grriimm.github.io/labveiltech/categories/design/</link>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://grriimm.github.io/labveiltech/categories/design/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Innovation</title>
+      <link>https://grriimm.github.io/labveiltech/categories/innovation/</link>
+      <pubDate>Thu, 07 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://grriimm.github.io/labveiltech/categories/innovation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Création</title>
+      <link>https://grriimm.github.io/labveiltech/categories/cr%C3%A9ation/</link>
+      <pubDate>Tue, 15 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://grriimm.github.io/labveiltech/categories/cr%C3%A9ation/</guid>
       <description></description>
     </item>
   </channel>

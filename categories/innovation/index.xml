@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Innovation on Maximind</title>
+    <link>https://grriimm.github.io/labveiltech/categories/innovation/</link>
+    <description>Recent content in Innovation on Maximind</description>
+    <image>
+      <title>Maximind</title>
+      <url>https://grriimm.github.io/labveiltech/images/papermod-cover.png</url>
+      <link>https://grriimm.github.io/labveiltech/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.138.0</generator>
+    <language>en</language>
+    <copyright>Maxime Peretti</copyright>
+    <lastBuildDate>Thu, 07 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://grriimm.github.io/labveiltech/categories/innovation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Zentry : La convergence entre le Web3 et l’innovation digitale</title>
+      <link>https://grriimm.github.io/labveiltech/posts/zentry/</link>
+      <pubDate>Thu, 07 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://grriimm.github.io/labveiltech/posts/zentry/</guid>
+      <description>Zentry est un écosystème Web3 qui révolutionne la façon dont le digital et le réel s’entrelacent.</description>
+    </item>
+  </channel>
+</rss>

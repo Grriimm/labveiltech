@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Design on Maximind</title>
+    <link>https://grriimm.github.io/labveiltech/tags/design/</link>
+    <description>Recent content in Design on Maximind</description>
+    <image>
+      <title>Maximind</title>
+      <url>https://grriimm.github.io/labveiltech/images/papermod-cover.png</url>
+      <link>https://grriimm.github.io/labveiltech/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.138.0</generator>
+    <language>en</language>
+    <copyright>Maxime Peretti</copyright>
+    <lastBuildDate>Tue, 10 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://grriimm.github.io/labveiltech/tags/design/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Outils de veille</title>
+      <link>https://grriimm.github.io/labveiltech/posts/outils-de-veille/</link>
+      <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://grriimm.github.io/labveiltech/posts/outils-de-veille/</guid>
+      <description>Ma méthode de veille sur le design et la recherche UX/UI</description>
+    </item>
+    <item>
+      <title>Ce que j’ai appris en tant que Product Designer chez Apple</title>
+      <link>https://grriimm.github.io/labveiltech/posts/product-designer-apple/</link>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://grriimm.github.io/labveiltech/posts/product-designer-apple/</guid>
+      <description>Les leçons clés d’Andrea Pacheco sur l’excellence et l’innovation.</description>
+    </item>
+  </channel>
+</rss>

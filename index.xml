@@ -12,35 +12,60 @@
     <generator>Hugo -- 0.138.0</generator>
     <language>en</language>
     <copyright>Maxime Peretti</copyright>
-    <lastBuildDate>Thu, 14 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Dec 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://grriimm.github.io/labveiltech/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Install / Update PaperMod</title>
-      <link>https://grriimm.github.io/labveiltech/posts/papermod/papermod-installation/</link>
-      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://grriimm.github.io/labveiltech/posts/papermod/papermod-installation/</guid>
-      <description>Read aboout Install and Update instructions and sampled configuration templates</description>
+      <title>Fusion de Produits : Réussir l’Intégration Sans Créer un Monstre</title>
+      <link>https://grriimm.github.io/labveiltech/posts/fusion-de-produits/</link>
+      <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://grriimm.github.io/labveiltech/posts/fusion-de-produits/</guid>
+      <description>Inspiré de l&amp;#39;article de Steve Johnson sur Product Growth Leaders</description>
     </item>
     <item>
-      <title>Features / Mods</title>
-      <link>https://grriimm.github.io/labveiltech/posts/papermod/papermod-features/</link>
-      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://grriimm.github.io/labveiltech/posts/papermod/papermod-features/</guid>
-      <description>Learn About All Features in PaperMod</description>
+      <title>Outils de veille</title>
+      <link>https://grriimm.github.io/labveiltech/posts/outils-de-veille/</link>
+      <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://grriimm.github.io/labveiltech/posts/outils-de-veille/</guid>
+      <description>Ma méthode de veille sur le design et la recherche UX/UI</description>
+    </item>
+    <item>
+      <title>La Qualité Produit Proactive : Mieux Prévenir que Guérir</title>
+      <link>https://grriimm.github.io/labveiltech/posts/proactive-product-quality/</link>
+      <pubDate>Thu, 05 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://grriimm.github.io/labveiltech/posts/proactive-product-quality/</guid>
+      <description>Inspiré de l&amp;#39;article d&amp;#39;Aakash Gupta sur Product Growth Leaders</description>
+    </item>
+    <item>
+      <title>Ce que j’ai appris en tant que Product Designer chez Apple</title>
+      <link>https://grriimm.github.io/labveiltech/posts/product-designer-apple/</link>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://grriimm.github.io/labveiltech/posts/product-designer-apple/</guid>
+      <description>Les leçons clés d’Andrea Pacheco sur l’excellence et l’innovation.</description>
+    </item>
+    <item>
+      <title>Zentry : La convergence entre le Web3 et l’innovation digitale</title>
+      <link>https://grriimm.github.io/labveiltech/posts/zentry/</link>
+      <pubDate>Thu, 07 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://grriimm.github.io/labveiltech/posts/zentry/</guid>
+      <description>Zentry est un écosystème Web3 qui révolutionne la façon dont le digital et le réel s’entrelacent.</description>
     </item>
     <item>
       <title>Le futur du travail créatif : La narration humaine</title>
-      <link>https://grriimm.github.io/labveiltech/posts/test-articles/</link>
-      <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://grriimm.github.io/labveiltech/posts/test-articles/</guid>
+      <link>https://grriimm.github.io/labveiltech/posts/the-futur-of-storytelling/</link>
+      <pubDate>Tue, 15 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://grriimm.github.io/labveiltech/posts/the-futur-of-storytelling/</guid>
       <description>Pourquoi la créativité humaine reste unique dans un monde où l&amp;#39;intelligence artificielle progresse rapidement.</description>
     </item>
     <item>
-      <title>A propos</title>
+      <title>👋 À propos de moi</title>
       <link>https://grriimm.github.io/labveiltech/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://grriimm.github.io/labveiltech/about/</guid>
-      <description></description>
+      <description>&lt;p&gt;Bienvenue sur mon site ! Je m’appelle &lt;strong&gt;Maxime Peretti&lt;/strong&gt;, et je suis passionné par le design numérique et l’expérience utilisateur. Mon domaine de prédilection ? Le croisement entre l’esthétique et la fonctionnalité, avec une attention particulière portée à l’UX/UI design et au &lt;strong&gt;product design&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Vous pouvez en savoir plus sur moi et mes projets sur &lt;a href=&#34;https://bento.me/maxime-peretti&#34;&gt;mon profil Bento&lt;/a&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-mon-ikigai--trouver-du-sens-dans-la-création-numérique&#34;&gt;🌟 Mon Ikigai : Trouver du sens dans la création numérique&lt;/h3&gt;
+&lt;p&gt;D’après ce que j’ai appris dans le cours de Marc Friederich, l’Ikigai représente l’équilibre entre ce que l’on aime, ce dans quoi on excelle, ce dont le monde a besoin et ce pour quoi on peut être rémunéré. Cette approche m’a aidé à comprendre comment donner du sens à mes choix professionnels et personnels.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
