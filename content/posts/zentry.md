@@ -1,17 +1,17 @@
 ---
-title: "Zentry : La convergence entre le Web3 et l’innovation digitale"
+title: "Zentry : la convergence entre le Web3 et l’innovation digitale"
 date: "2024-11-07"
 description: "Zentry est un écosystème Web3 qui révolutionne la façon dont le digital et le réel s’entrelacent."
 tags: ["Web3", "innovation", "digital"]
 categories: ["technologie", "innovation"]
 cover:
-  image: images/zentry-cover.png
+  image: images/zentry.png
   alt: "Zentry Cover Image"
   relative: true
 ShowToc: true
 ---
 
-### Zentry : La convergence entre le Web3 et l’innovation digitale
+### Zentry : la convergence entre le Web3 et l’innovation digitale
 
 Zentry est un écosystème Web3 qui révolutionne la façon dont le digital et le réel s’entrelacent. Ce projet visionnaire vise à connecter les utilisateurs à travers différents jeux et plateformes, grâce à la "Metagame Layer". Avec cette innovation, avatars, actifs et réalisations peuvent être transférés d’un jeu à l’autre, ouvrant la voie à une véritable **"Play Economy"**.
 

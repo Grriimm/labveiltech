@@ -1,6 +1,6 @@
 ---
 author: ["Maxime Peretti"]
-title: "Le futur du travail créatif : La narration humaine"
+title: "Le futur du travail créatif : la narration humaine"
 date: "2024-10-15"
 description: "Pourquoi la créativité humaine reste unique dans un monde où l'intelligence artificielle progresse rapidement."
 summary: "Cet article explore comment la narration et l'expression créative humaine demeurent irremplaçables face aux avancées de l'IA."

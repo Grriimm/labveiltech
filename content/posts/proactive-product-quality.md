@@ -1,17 +1,17 @@
 ---
-title: "La Qualité Produit Proactive : Mieux Prévenir que Guérir"
+title: "La qualité produit proactive : mieux prévenir que guérir"
 date: "2024-12-05"
 description: "Inspiré de l'article d'Aakash Gupta sur Product Growth Leaders"
 tags: ["qualité", "proactivité", "produit"]
 categories: ["technologie", "stratégie"]
 cover:
-  image: images/proactive-product-quality-cover.png
+  image: images/hidden-cost.png
   alt: "Proactive Product Quality Cover Image"
   relative: true
 ShowToc: true
 ---
 
-### **La Qualité Produit Proactive : Mieux Prévenir que Guérir** 🚀
+### **La qualité produit proactive : mieux prévenir que guérir** 🚀
 
 *Inspiré de l'article d'Aakash Gupta sur Product Growth Leaders*
 
@@ -19,7 +19,7 @@ La simple réactivité face aux bugs appartient au passé. Une étude d’IBM r�
 
 ---
 
-### **1. Intégrer la Qualité à Chaque Étape** 🛠️
+### **1. Intégrer la qualité à chaque étape** 🛠️
 
 La qualité ne s’arrête pas aux tests finaux. Elle doit être un réflexe dès la conception et se poursuivre jusqu’au déploiement du produit. Chaque étape compte.
 
@@ -31,24 +31,24 @@ Plutôt que d’attendre les échecs, anticipez-les ! Organisez des sessions où
 
 ---
 
-### **3. Automatiser la Détection des Problèmes** 🤖
+### **3. Automatiser la détection des problèmes** 🤖
 
 Des outils comme **LogRocket** surveillent les comportements des utilisateurs en temps réel. Ils permettent d'identifier les bugs et opportunités d'amélioration **avant** que les utilisateurs ne les signalent.
 
 ---
 
-### **4. Suivre les Indicateurs Clés** 📊
+### **4. Suivre les indicateurs clés** 📊
 
 Quel pourcentage de bugs est détecté **en amont** par rapport à ceux qui arrivent en production ? Ce ratio est un excellent indicateur pour évaluer l’efficacité de votre stratégie proactive.
 
 ---
 
-### **Exemple Concret : L’Erreur qui Coûte Cher** 💸
+### **Exemple concret : l’erreur qui coûte cher** 💸
 
 Une startup fintech a ignoré un **bug mineur** dans son système de paiement, qui affectait seulement **0.1% des transactions**. Résultat : des critiques négatives virales, une perte de crédibilité et une chute de **15% des nouvelles inscriptions**.
 
 ---
 
-### **Conclusion : La Proactivité, un Choix Culturel** 🌟
+### **Conclusion : la proactivité, un choix culturel** 🌟
 
 Être proactif ne se résume pas à de bons tests. C’est une culture où chaque membre de l’équipe, à chaque étape, prend la qualité au sérieux. Car au final, **prévenir coûte toujours moins cher que réparer**.

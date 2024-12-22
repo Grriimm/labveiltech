@@ -5,7 +5,7 @@ description: "Ma méthode de veille sur le design et la recherche UX/UI"
 tags: ["veille", "design", "UX/UI"]
 categories: ["technologie", "stratégie"]
 cover:
-  image: images/outils-de-veille-cover.png
+  image: images/veille.png
   alt: "Outils de Veille Cover Image"
   relative: true
 ShowToc: true

@@ -14,7 +14,7 @@ Vous pouvez en savoir plus sur moi et mes projets sur [mon profil Bento](https:/
 
 ---
 
-### 🌟 Mon Ikigai : Trouver du sens dans la création numérique
+### 🌟 Mon Ikigai : trouver du sens dans la création numérique
 
 D’après ce que j’ai appris dans le cours de Marc Friederich, l’Ikigai représente l’équilibre entre ce que l’on aime, ce dans quoi on excelle, ce dont le monde a besoin et ce pour quoi on peut être rémunéré. Cette approche m’a aidé à comprendre comment donner du sens à mes choix professionnels et personnels.
 

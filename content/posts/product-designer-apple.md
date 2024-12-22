@@ -1,11 +1,11 @@
 ---
-title: "Ce que j’ai appris en tant que Product Designer chez Apple"
+title: "Ce que j’ai appris en tant que product designer chez Apple"
 date: "2024-12-01"
 description: "Les leçons clés d’Andrea Pacheco sur l’excellence et l’innovation."
 tags: ["design", "Apple", "innovation"]
 categories: ["technologie", "design"]
 cover:
-  image: images/product-designer-apple-cover.png
+  image: images/product-designer.png
   alt: "Product Designer Apple Cover Image"
   relative: true
 ShowToc: true
