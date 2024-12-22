@@ -2,7 +2,9 @@
 
 <article class="post-single">
   <header class="post-header">
+    {{- if ne .Type "about" }}
     {{ partial "breadcrumbs.html" . }}
+    {{- end }}
     <h1 class="post-title entry-hint-parent">
       {{ .Title }}
       {{- if .Draft }}
@@ -19,7 +21,7 @@
       {{ .Description }}
     </div>
     {{- end }}
-    {{- if not (.Param "hideMeta") }}
+    {{- if and (not (.Param "hideMeta")) (ne .Type "about") }}
     <div class="post-meta">
       {{- partial "post_meta.html" . -}}
       {{- partial "translation_list.html" . -}}
